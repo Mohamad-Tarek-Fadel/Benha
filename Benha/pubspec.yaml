@@ -1,0 +1,9 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+  http: ^1.1.0
+  record: ^4.4.4
+  just_audio: ^0.9.34
+  path_provider: ^2.1.1
+  langdetect: ^1.0.0 
